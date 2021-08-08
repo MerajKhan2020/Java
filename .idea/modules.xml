@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Cube/Cube.iml" filepath="$PROJECT_DIR$/Cube/Cube.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EntryFee/EntryFee.iml" filepath="$PROJECT_DIR$/EntryFee/EntryFee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Random/Random.iml" filepath="$PROJECT_DIR$/Random/Random.iml" />
+    </modules>
+  </component>
+</project>
